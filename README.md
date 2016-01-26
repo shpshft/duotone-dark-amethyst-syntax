@@ -3,15 +3,15 @@
 A double-hue syntax theme for Atom.
 
 <img alt="DuoTone dark" sizes="272px"
-  src="https://cloud.githubusercontent.com/assets/378023/6996305/4d567190-dbbb-11e4-8ae8-4be016a85c68.png">
+  src="https://cloud.githubusercontent.com/assets/53810/12573603/8465c170-c3c0-11e5-8796-2c2925c88036.png">
 
 DuoTone dark amethyst uses only 2 hues (purple & another purple ;) and has 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
 
 <img alt="CSS in DuoTone dark" sizes="780px"
-  src="https://cloud.githubusercontent.com/assets/378023/6996868/871b6440-dbdd-11e4-834e-b28363026d0c.png">
+  src="https://cloud.githubusercontent.com/assets/53810/12573601/84559f34-c3c0-11e5-9b01-b542b7752c72.png">
 
 <img alt="HTML in DuoTone dark" sizes="780px"
-  src="https://cloud.githubusercontent.com/assets/378023/6996874/aee76b40-dbdd-11e4-95e1-a40258a50c26.png">
+  src="https://cloud.githubusercontent.com/assets/53810/12573602/8462c718-c3c0-11e5-94e9-843866bdd156.png">
 
 > The font in the screenshot is `Fira Mono`. You can download it from https://github.com/mozilla/Fira
 
