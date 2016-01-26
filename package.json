@@ -1,0 +1,38 @@
+{
+  "name": "duotone-dark-amethyst-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A dark- and very purple!- Atom syntax theme. Derived from DuoTone Dark Syntax",
+  "keywords": [
+    "dark",
+    "purple",
+    "amethyst",
+    "duotone",
+    "syntax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bynines/duotone-dark-amethyst-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  },
+  "readme": "# DuoTone dark amethyst\n\nA dual-hue syntax theme for Atom.\n\n<img alt=\"DuoTone dark amethyst\" sizes=\"272px\"\n  src=\"https://cloud.githubusercontent.com/assets/378023/6996305/4d567190-dbbb-11e4-8ae8-4be016a85c68.png\">\n\nDuoTone dark amethyst uses only 2 hues (purple and kinda-purple) and has 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still enables you to find the stuff you're looking for.\n\n<img alt=\"CSS in DuoTone dark amethyst\" sizes=\"780px\"\n  src=\"https://cloud.githubusercontent.com/assets/378023/6996868/871b6440-dbdd-11e4-834e-b28363026d0c.png\">\n\n<img alt=\"HTML in DuoTone dark amethyst\" sizes=\"780px\"\n  src=\"https://cloud.githubusercontent.com/assets/378023/6996874/aee76b40-dbdd-11e4-95e1-a40258a50c26.png\">\n\n> The font in the screenshot is `Fira Mono`. You can download it from https://github.com/mozilla/Fira\n\n\n### Currently tested and optimized for these languages:\n\n- C\n- Clojure\n- CoffeeScript\n- C#\n- CSS\n- GF Markdown\n- Go\n- Haskell\n- HTML\n- Java\n- JavaScript\n- JSON\n- Less\n- Perl\n- PHP\n- Python\n- Ruby\n- SASS\n- SCSS\n- Stylus\n- (La-)TeX\n- XML\n- YAML\n\nMore optimization to come..\n\n### Issues and contributing\n\nIf you would like to create a new __Issue__ or __PR__, please do so in:\n\n- __this repo__ if it's about __color__ changes, like in `colors.less` or `syntax-variables.less`.\n- __[DuoTone master template](https://github.com/simurai/duotone-syntax)__ if it's about __everything else__, like in improving language support. Changes will trickle down into this theme too.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/bynines/duotone-dark-amethyst-syntax/issues"
+  },
+  "homepage": "https://github.com/bynines/duotone-dark-amethyst-syntax#readme",
+  "_id": "duotone-dark-amethyst-syntax@0.5.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
