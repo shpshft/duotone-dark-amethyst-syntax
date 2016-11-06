@@ -1,30 +1,31 @@
 
-// DuoTone dark 01
+// DuoTone dark Amethyst
 
 // Hues -----------------------------------
-@syntax-uno:    252;
-@syntax-duo:    270;
+@syntax-uno: 278;
+@syntax-duo: 270;
 
 
 // Language colors -----------------------------------
 
 // Uno hue
-@uno-1: hsl(@syntax-uno, 100%, 96%);
-@uno-2: hsl(@syntax-uno,  98%, 86%);
-@uno-3: hsl(@syntax-uno,  96%, 78%);
-@uno-4: hsl(@syntax-uno,  12%, 46%);
+@uno-1: hsl(@syntax-uno, 90%, 90%);
+@uno-2: hsl(@syntax-uno, 72%, 72%);
+@uno-3: hsl(@syntax-uno, 54%, 54%);
+@uno-4: hsl(@syntax-uno, 36%, 36%);
+@uno-5: hsl(@syntax-uno, 18%, 27%);
 
 // Duo hue
-@duo-1: hsl(@syntax-duo, 100%, 80%);
-@duo-2: hsl(@syntax-duo,  72%, 62%);
-@duo-3: hsl(@syntax-duo,   6%, 46%);
+@duo-1: hsl(@syntax-duo, 66.6%, 66.6%);
+@duo-2: hsl(@syntax-duo, 50%, 50%);
+@duo-3: hsl(@syntax-duo, 33.3%, 33.3%);
 
 
 // Base colors -----------------------------------
 @syntax-fg:               @uno-2;
-@syntax-bg:               hsl(@syntax-uno, 14%, 18%);
+@syntax-bg:               hsl(@syntax-uno, 13.5%, 13.5%);
 @syntax-accent:           hsl(@syntax-duo, 100%, 66%);
 @syntax-guide:            lighten(@syntax-bg, 10%);
 @syntax-selection:        lighten(@syntax-bg, 12%);
 @syntax-selection-gutter: lighten(@syntax-bg, 3%);
-@syntax-cursor-line:      fade(@syntax-selection, 26%); // needs to be semi-transparent to show serach results
+@syntax-cursor-line:      fade(@syntax-selection, 26%); // needs to be semi-transparent to show search results
