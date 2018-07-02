@@ -1,3 +1,5 @@
+> Note: This theme is __deprecated__ 😢. Take a look at [tone-syntax](https://atom.io/packages/tone-syntax) for the newest (and best) way to get your duotone on. Thanks for all the fish!
+
 # DuoTone dark amethyst
 
 A double-hue (well, sorta) syntax theme for Atom.
